@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1554428822 source:c:\users\god\desktop\3\programacion1\programacion1\tpcalcv1\libcalc.c
+	"libCalc.h"
+	<stdio.h>
+	<stdlib.h>
+
+1554430245 c:\users\god\desktop\3\programacion1\programacion1\tpcalcv1\libcalc.h
+
+1554429307 source:c:\users\god\desktop\3\programacion1\programacion1\tpcalcv1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libCalc.h"
+
+1554297407 source:c:\users\alumno\desktop\programacion1\programacion1\tpcalcv1\libcalc.c
+	"libCalc.h"
+	<stdio.h>
+	<stdlib.h>
+
+1554292177 c:\users\alumno\desktop\programacion1\programacion1\tpcalcv1\libcalc.h
+
+1554294890 source:c:\users\alumno\desktop\programacion1\programacion1\tpcalcv1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libCalc.h"
+
